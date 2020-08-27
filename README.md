@@ -15,7 +15,8 @@ Fast Campus - 예제와 실습으로 마스터하는 C++
 
 - [링크거는 방법](#features)
   - [Keyboard shortcuts](#keyboard-shortcuts)
-  -[링크걸기 테스트](#link-test)  
+  - [링크걸기 테스트](#link-test)
+  - [링크걸기 테스트2](#link-test2)  
 
 	
 	
@@ -25,6 +26,8 @@ Fast Campus - 예제와 실습으로 마스터하는 C++
 	
 
 ### link-test
+
+### link-test2
 
 
 [공통] 마크다운 markdown 작성법
